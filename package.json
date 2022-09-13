@@ -1,0 +1,13 @@
+{
+  "name": "two-sets-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "hirle",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
