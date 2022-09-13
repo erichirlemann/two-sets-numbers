@@ -1,7 +1,7 @@
 # Two sets of numbers
 
-A simple api serving two urls wit hardwired arrays of positive integers.
-This is used for evaluation purpose
+A simple api serving two urls, every url serves a hardwired array of positive integers.
+This is used for evaluation purpose.
 
 ## How to run
 `npm install`
