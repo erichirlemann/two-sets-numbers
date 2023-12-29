@@ -2,12 +2,15 @@
   "name": "two-sets-numbers",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">=14"
+  },
   "scripts": {
     "start": "npx serve ."
   },
   "author": "hirle",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.0.1"
+    "serve": "^14.2.1"
   }
 }
