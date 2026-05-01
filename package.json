@@ -1,6 +1,6 @@
 {
   "name": "two-sets-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "engines": {
     "node": ">=14"
@@ -11,6 +11,6 @@
   "author": "hirle",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.2.1"
+    "serve": "^14.2.6"
   }
 }
